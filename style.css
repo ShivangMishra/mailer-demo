@@ -5,7 +5,6 @@
     width: 99.5vw;
     height: fit-content;
 	overflow-x: hidden;
-	overflow-y: scroll;
 }
 .full-width-image {
 	position: absolute;
