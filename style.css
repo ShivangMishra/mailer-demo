@@ -1,0 +1,62 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    width: 100vw;
+    height: fit-content;
+	overflow-x: hidden;
+}
+.full-width-image {
+	position: absolute;
+	width: 100vw;
+	height: auto;
+}
+
+.btn {
+	position: absolute;
+	top: 250px;
+	left: 250px;
+	width: calc(0.0874 * 100vw);
+}
+
+#btn1 {
+	left: calc(0.0162 * 100vw);
+	top: calc(0.9086 * 0.6071 * 100vw);
+	width: calc(0.0874 * 100vw);
+	height: calc(0.0365 * 0.6071 * 100vw);
+}
+
+#btn2 {
+	left: calc(0.5242 * 100vw);
+	top: calc(0.9247 * 0.6071 * 100vw);
+	width: calc(0.0877 * 100vw);
+	height: calc(0.0365 * 0.6071 * 100vw);
+}
+
+#btn3 {
+	left: calc(0.7214 * 100vw);
+	top: calc(0.6376 * 0.6071 * 100vw);
+	width: calc(0.0874 * 100vw);
+	height: calc(0.0365 * 0.6071 * 100vw);
+}
+
+#btn4 {
+	left: calc(0.5502 * 100vw);
+	top: calc(0.3592 * 0.6071 * 100vw);
+	width: calc(0.0607 * 100vw);
+	height: calc(0.0243 * 0.6071 * 100vw);
+}
+
+#btn5 {
+	left: calc(0.7211 * 100vw);
+	top: calc(0.3592 * 0.6071 * 100vw);
+	width: calc(0.0607 * 100vw);
+	height: calc(0.0243 * 0.6071 * 100vw);
+}
+
+#btn6 {
+	left: calc(0.8897 * 100vw);
+	top: calc(0.3592 * 0.6071 * 100vw);
+	width: calc(0.0607 * 100vw);
+	height: calc(0.0245 * 0.6071 * 100vw);
+}
