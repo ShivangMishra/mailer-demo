@@ -1,13 +1,25 @@
-* {
+/*  {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
     width: 99.5vw;
-    height: fit-content;
+    height: min-content;
 	overflow-x: hidden;
+
+} */
+
+body{
+  margin:0;
+}
+.index-img{
+  display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 90%;
 }
 .full-width-image {
-	position: absolute;
+	position: relative;
 	width: 100%;
 	height: auto;
 }
